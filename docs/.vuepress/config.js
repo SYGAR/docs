@@ -3,8 +3,8 @@ module.exports = {
         logo: '/assets/img/my.jpg',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'Guide', link: '/guide/' },
-            { text: 'External', link: 'https://google.com' },
+            { text: '前端学习', link: '/guide/' },
+            { text: '项目', link: '/et' },
         ]
     },
     markdown: {
